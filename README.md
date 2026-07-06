@@ -8,7 +8,7 @@
 
 > [!IMPORTANT]
 > **Tired of editing HTML, CSS, and Lua files by hand?**  
-> You can customize this exact template—change the background, add your server logo, and upload your custom music—using our visual drag-and-drop builder at **[Vice-Forge.com](https://vice-forge.com)**. No coding required!
+> You can customize this exact template—change the background, add your server logo, and upload your custom music—using our visual drag-and-drop builder at **[Vice-Forge.com](https://vice-forge.com/builder?template=vice-neon)**. No coding required!
 
 ## ✨ Features
 * 📱 **Fully Responsive:** Looks perfect on all screen sizes.
