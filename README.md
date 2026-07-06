@@ -1,7 +1,7 @@
 # Free FiveM Loading Screen Script - Neon City
 
 <p align="center">
-  <img src=".github/assets/preview.gif" alt="Free FiveM Loading Screen Script" width="800">
+  <img src="preview.gif" alt="Free FiveM Loading Screen Script" width="800">
 </p>
 
 ## 🚀 The Easiest Way to Customize
